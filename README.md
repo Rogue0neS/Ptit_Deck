@@ -2,7 +2,7 @@
 
 ![Bannière du projet](https://github.com/Rogue0neS/Ptit_Deej/blob/main/Image/IMG_20241115_113932-ezgif.com-webp-to-png-converter.png)
 
-Ptit Deck est un projet de contrôleur de son pour PC qui se base sur un autre projet Github du nom de Deej. Ce petit périphérique permet de contrôler le son des logiciels de son PC par exemple Chrome, Discord, Steam etc... grâce à 3 encodeurs ! Il peut aussi émuler des touches de claviers grâce aux boutons des encodeurs grâce à un Arduino Pro Micro.
+Ptit Deck est un projet de contrôleur de son pour PC qui se base sur un autre projet Github du nom de [Deej](https://github.com/omriharel/deej). Ce petit périphérique permet de contrôler le son des logiciels de son PC par exemple Chrome, Discord, Steam etc... grâce à 3 encodeurs ! Il peut aussi émuler des touches de claviers grâce aux boutons des encodeurs grâce à un Arduino Pro Micro.
 
 ## Table des Matières
 - [Aperçu](#aperçu)
