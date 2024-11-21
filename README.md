@@ -24,11 +24,11 @@ Ptit Deck est un projet de contrôleur de son pour PC qui se base sur un autre p
 
 Voici les fonctionnalités du Ptit Deck
 
-- Contrôle du son Master du PC 
-- Contrôle du son de différent application (Chrome, Steam, Discord, etc...)
-- Emulation de touches de clavier (ex : Mute, Alt+F4, Ctrl+C Ctrl+V, etc...)
-- Affichage d'information sur l'écran OLED de 1.2"
-- 3 Leds ARGB avec enregistrement de leur état sur l'EEPROM de l'Arduino Pro Micro
+- [Contrôle du son Master du PC] 
+- [Contrôle du son de différent application (Chrome, Steam, Discord, etc...)]
+- [Emulation de touches de clavier (ex : Mute, Alt+F4, Ctrl+C Ctrl+V, etc...)]
+- [Affichage d'information sur l'écran OLED de 1.2"]
+- [3 Leds ARGB avec enregistrement de leur état sur l'EEPROM de l'Arduino Pro Micro]
 
 ## Comment ça fonctionne ?
 
