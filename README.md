@@ -17,7 +17,7 @@ Ptit Deck est un projet de contrôleur de son pour PC qui se base sur un autre p
 
 ## Aperçu
 
-![Capture d'écran du clavier]("https://imgur.com/a/djIJT3s")
+![Capture d'écran du clavier](https://imgur.com/a/djIJT3s)
 
 
 ## Fonctionnalités
