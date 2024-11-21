@@ -54,4 +54,4 @@ Voici le schéma de cablâge du projet :
 Le Ptit Deck possède 3 modes de fonctionnement :
 - Le premier mode permet de contrôler le son de son PC grâce aux 3 encoders, il permet aussi d'utiliser des raccourcis clavier.
 - Le second mode permet d'avoir encore plus de raccourcis clavier mais ne permet pas le contrôle du son.
-- Le dernier mode permet de contrôler les LED ARGB, pour changer de paramètre il suffit d'appuyer sur le deuxième encoder.Dans la première page on peut contrôler la luminosité grâce au premier encoder et les autres pages permettent d'appliquer des couleurs customiser grâce aux 3 encoders qui sont modifie respectivement les couleurs RGB de la LED selectionné .
+- Le dernier mode permet de contrôler les LED ARGB. Pour changer de paramètre il suffit d'appuyer sur le deuxième encoder. Dans la première page on peut contrôler la luminosité grâce au premier encoder et les autres pages permettent d'appliquer des couleurs customiser grâce aux 3 encoders qui modifie respectivement les couleurs RGB de la LED selectionné .
