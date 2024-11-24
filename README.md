@@ -58,7 +58,7 @@ Le Ptit Deck possède 3 modes de fonctionnement :
 
 ## Galerie
 
-Voici une galerie d'image du Ptit Deck. [Gallerie d'image](https://github.com/Rogue0neS/Ptit_Deck/tree/main/Image)
+Voici une galerie d'image du Ptit Deck. [Galerie d'image](https://github.com/Rogue0neS/Ptit_Deck/tree/main/Image)
 
 ## Licence
 
