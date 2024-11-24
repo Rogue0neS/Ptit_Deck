@@ -10,7 +10,7 @@ Ptit Deck est un projet de contrôleur de son pour PC qui se base sur un autre p
 - [Comment ça fonctionne ? ](#how-it-works)
   - [Hardware](#hardware)
     - [Schéma](#schéma)
-- [Utilisation](#utilisation)
+- [Fonctionnement](#utilisation)
 - [Personnalisation](#personnalisation)
 - [Contribution](#contribution)
 - [Licence](#licence)
@@ -49,7 +49,7 @@ Voici le schéma de cablâge du projet :
 
 ![Schéma de cablage](https://github.com/Rogue0neS/Ptit_Deej/blob/main/Image/Sch%C3%A9ma_Ptit_Deck.drawio.png)
 
-## Utilisation
+## Fonctionnement
 
 Le Ptit Deck possède 3 modes de fonctionnement :
 - Le premier mode permet de contrôler le son de son PC grâce aux 3 encoders, il permet aussi d'utiliser des raccourcis clavier.
@@ -58,8 +58,7 @@ Le Ptit Deck possède 3 modes de fonctionnement :
 
 ## Galerie
 
-
-
+Voici une galerie d'image du Ptit Deck. [Gallerie d'image](https://github.com/Rogue0neS/Ptit_Deck/tree/main/Image)
 
 ## Licence
 
